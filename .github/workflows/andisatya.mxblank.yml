@@ -1,13 +1,13 @@
-name: CI
+name:https://andisatya.mx
 
-on: [push]
+on: andisatya.mx
 
-jobs:
+jobs:industry home
   build:
 
     runs-on: ubuntu-latest
 
-    steps:
+    steps:https://andisatya.com
     - uses: actions/checkout@v1
     - name: Run a one-line script
       run: echo Hello, world!
